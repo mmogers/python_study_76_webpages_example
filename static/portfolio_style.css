@@ -1,0 +1,42 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f9efe5; /* Warm beige background */
+  color: #574236; /* Deep brown text */
+  margin: 20px;
+}
+
+h1 {
+  color: #b3584d; /* Rusty red heading */
+}
+
+h2 {
+  color: #574236; /* Deep brown subheading */
+  border-bottom: 2px solid #b3584d; /* Rusty red border bottom */
+  padding-bottom: 5px;
+}
+
+p {
+  margin-top: 10px;
+}
+
+img {
+  margin-top: 10px;
+  border: 1px solid #b3584d; /* Rusty red border for images */
+  border-radius: 5px;
+}
+
+a {
+  text-decoration: none;
+  color: #b3584d; /* Rusty red link color */
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
